@@ -1,0 +1,8 @@
+{
+    "editor.semanticTokenColorCustomizations": {
+
+    },
+    "editor.fontFamily": "Cascadia Code",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": false
+}

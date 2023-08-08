@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    text-align: center;
+    color: #f9f9f9;
+    margin-bottom: 2rem;
+    letter-spacing: 2px;
+}
+
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-width: 25%;
+}
+
+.control{
+    padding: 5px;
+    /* border-radius: 8px; */
+    outline: none;
+    background: transparent;
+    color: #f9f9f9;
+    border: none;
+    border-bottom: 1px solid #703eff;
+    letter-spacing: 2px;
+    /* background-color: rgb(56, 56, 56); */
+}
+
+.btn-edit{
+    margin-top: 2rem;
+    background-color: #703eff;
+    color: #f9f9f9;
+    height: 40px;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+    border-radius: 8px;
+    border: none;
+}
